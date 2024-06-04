@@ -204,23 +204,12 @@ Get in touch
 Talk to me
 Write me your project
 
-.contact__data-title .contact__data-info .contact__button
-Email
-chrismayer@email.com
 
-Whatsapp
-+51 9876543210
-Write me
 
 <!-- Insert a real number plus country code -->
 https://api.whatsapp.com/send?phone=3477533776&text=Hello, more information!
 
-Messenger
-@chris.fb123
-Write me
 
-<!-- Insert your brand name or profile -->
-https://m.me/bedimcode
 
 .contact__form-tag | placeholder
 Names
@@ -255,7 +244,7 @@ Submit
 // To clear the input field
 ========== FOOTER ==========
 .footer__title
-Chris
+Frank
 
 <p>
 Frontend Developer
@@ -270,8 +259,6 @@ https://www.linkedin.com/
 https://github.com/
 https://dribbble.com/
 
-.footer__copy
-&#169; Copyright Bedimcode. All rights reserved
 
 
 
